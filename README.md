@@ -1,3 +1,18 @@
+## Instrucciones
+Este proyecto esta elaborado con REDUX y utiliza json-server para hacer las peticiones
+
+instalar paquetes
+`$ npm install`
+
+instalar json-server
+`$ npm i json-server`
+
+levantar app
+`$ npm start`
+
+levantar servicio, http://localhost:5000/productos
+`$ json-server --watch productos.json --port 5000`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
